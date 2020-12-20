@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rick e Morty</string>
+    <string name="assomigli_text">SCOPRI A CHI ASSOMIGLI</string>
+    <string name="insoddisfatto_text">INSODDISFATTO? PROVA ANCORA</string>
+</resources>
